@@ -1,0 +1,19 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/dailycrypto",
+    "prod_uri": "mysql://root:@localhost/dailycrypto",
+    "gmail-user": "dailycrypts2020@gmail.com",
+    "gmail-password": "karanc$$",
+    "about-text": "The go to source for both professional and retail traders from around the globe for relevant and succinct trading information.",
+    "no_of_posts": 6,
+    "login_img": "admin.jpg",
+    "admin_user": "cryptoadmin",
+    "admin_pass": "karanc$$",
+    "upload_location": "\\static\\img"
+  }
+
+
+
+}
